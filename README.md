@@ -17,10 +17,6 @@
 </div>
 
 
-
-
-欢迎大家访问我的个人博客：https://www.fangzhipeng.com/
-
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
 
@@ -31,56 +27,54 @@
 
 github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
 
-### 欢迎购买我的书《深入理解Spring Cloud与微服务构建》
+欢迎大家访问我的个人博客：https://www.fangzhipeng.com/spring-cloud.html
 
-![1.jpg](https://upload-images.jianshu.io/upload_images/2279594-3d9ee1555f555040.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/150)
-
-[京东购买](https://item.jd.com/12312724.html)  [当当购买](http://product.dangdang.com/25231114.html) [亚马逊购买](https://www.amazon.cn/dp/B079J8SCGY/ref=sr_1_2?ie=UTF8&qid=1521344315&sr=8-2&keywords=spring+cloud)
-
+**[点击获取SpringCloud 、Spring Boot视频](https://www.fangzhipeng.com/share/2017/10/01/resource-sharing.html)**
 
 ### 《史上最简单的 SpringCloud 教程》系列：
 
+### Spring Cloud Alibaba教程
+- [Spring Cloud Alibaba教程：使用Nacos作为服务注册发现组件](https://www.fangzhipeng.com/springcloud/2019/05/30/sc-nacos-discovery.html)
+- [Spring Cloud Alibaba教程：使用Nacos作为配置中心](https://www.fangzhipeng.com/springcloud/2019/06/01/sc-nacos-config.html)
+- [Spring Cloud Alibaba教程：Sentinel的使用
+](https://www.fangzhipeng.com/springcloud/2019/06/02/sc-sentinel.html)
 ### Greenwich版本 
 
-- [Spring Cloud Consul 之Greenwich版本全攻略](https://blog.csdn.net/forezp/article/details/87273153)
-- [spring cloud config将配置存储在数据库中](https://blog.csdn.net/forezp/article/details/87866560)
-- [Spring Cloud Sleuth 之Greenwich版本全攻略](https://blog.csdn.net/forezp/article/details/87075651)
-- [Spring Boot Admin 2.1.0 全攻略](https://blog.csdn.net/forezp/article/details/87075651)
-- [阿里分布式事务框架GTS开源了！](https://blog.csdn.net/forezp/article/details/86634907)
-
+- [Spring Cloud Consul 之Greenwich版本全攻略](https://www.fangzhipeng.com/springcloud/2019/02/14/sc-consul-g.html)
+- [spring cloud config将配置存储在数据库中](https://www.fangzhipeng.com/springcloud/2019/02/21/config-jdbc.html)
+-  [Spring Cloud Sleuth 之Greenwich版本全攻略](https://www.fangzhipeng.com/springcloud/2019/02/05/sc-sleuth-g.html)
+- [Spring Boot Admin 2.1.0 全攻略](https://blog.csdn.net/forezp/article/details/86105850)
+-  [阿里分布式事务框架GTS开源了！](https://www.fangzhipeng.com/springcloud/2019/01/04/sc-f-boot-admin.html)
 
 ### Finchley版本 
-
-欢迎大家访问我的个人博客：https://www.fangzhipeng.com/
-
 Spring Cloud Finchley; Spring Boot 2.0.3
 
-* [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040925)
-* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040946)
-* [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040965)
-* [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040990)
-* [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041012)
-* [史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041028)
-* [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041045)
-* [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041062)
-* [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041078)
-* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041101)
+* [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/01/sc-f1-eureka.html)
+* [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/02/sc-f2-ribbon.html)
+* [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/03/sc-f3-feign.html)
+* [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/04/sc-f4-hystrix.html)
+* [ 史上最简单的SpringCloud教程 | 第五篇: 路由网关(zuul)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/05/sc-f5-zuul.html)
+* [史上最简单的SpringCloud教程 | 第六篇: 分布式配置中心(Spring Cloud Config)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/06/sc-f6-config.html)
+* [史上最简单的SpringCloud教程 | 第七篇: 高可用的分布式配置中心(Spring Cloud Config)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/07/sc-f7-config.html)
+* [史上最简单的SpringCloud教程 | 第八篇: 消息总线(Spring Cloud Bus)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/08/sc-f8-bus.html)
+* [史上最简单的SpringCloud教程 | 第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/09/sc-f9-sleuth.html)
+* [史上最简单的SpringCloud教程 | 第十篇: 高可用的服务注册中心(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/10/sc-f10-eureka.html)
 
-* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041113)
-* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](http://blog.csdn.net/forezp/article/details/81041125)
-* [史上最简单的SpringCloud教程 | 第十四篇: Spring Cloud Gateway初体验](https://blog.csdn.net/forezp/article/details/83792388)
-* [史上最简单的SpringCloud教程 | 第十五篇: Spring Cloud Gateway 之Predict篇](https://blog.csdn.net/forezp/article/details/84926662)
-* [史上最简单的SpringCloud教程 | 第十六篇: Spring Cloud Gateway 之filter篇](https://blog.csdn.net/forezp/article/details/85057268)
-*  [史上最简单的SpringCloud教程 | 第十七篇: Spring Cloud Gateway 之限流篇](https://blog.csdn.net/forezp/article/details/85081162)
-*  [史上最简单的SpringCloud教程 | 第十八篇: spring cloud gateway之服务注册与发现](https://blog.csdn.net/forezp/article/details/85210153)
+* [史上最简单的SpringCloud教程 | 第十二篇: 断路器监控(Hystrix Dashboard)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/12/sc-f12-dash.html)
+* [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)(Finchley版本)](https://www.fangzhipeng.com/springcloud/2018/08/13/sc-f13-turbine.html)
+* [史上最简单的SpringCloud教程 | 第十四篇: Spring Cloud Gateway初体验](https://www.fangzhipeng.com/springcloud/2018/11/06/sc-f-gateway1.html)
+* [史上最简单的SpringCloud教程 | 第十五篇: Spring Cloud Gateway 之Predict篇](https://www.fangzhipeng.com/springcloud/2018/12/05/sc-f-gateway2.html)
+* [史上最简单的SpringCloud教程 | 第十六篇: Spring Cloud Gateway 之filter篇](https://www.fangzhipeng.com/springcloud/2018/12/21/sc-f-gatway3.html)
+*  [史上最简单的SpringCloud教程 | 第十七篇: Spring Cloud Gateway 之限流篇](https://www.fangzhipeng.com/springcloud/2018/12/22/sc-f-gatway4.html)
+*  [史上最简单的SpringCloud教程 | 第十八篇: spring cloud gateway之服务注册与发现](https://www.fangzhipeng.com/springcloud/2018/12/23/sc-f-gateway5.html)
 
 ### 源码篇：
 
-* [深入理解Feign之源码解析](http://blog.csdn.net/forezp/article/details/73480304)
-* [深入理解Eureka之源码解析](http://blog.csdn.net/forezp/article/details/73017664)
-* [深入理解Ribbon之源码解析](http://blog.csdn.net/forezp/article/details/74820899)
+* [深入理解Feign之源码解析](https://www.fangzhipeng.com/springcloud/2017/08/11/sc-feign-raw.html)
+* [深入理解Eureka之源码解析](https://www.fangzhipeng.com/springcloud/2017/08/11/eureka-resources.html)
+* [深入理解Ribbon之源码解析](https://www.fangzhipeng.com/springcloud/2017/08/11/Ribbon-resources.html)
 *  [ 深入理解Hystrix之文档翻译](http://blog.csdn.net/forezp/article/details/75333088)
-* [深入理解Zuul之源码解析](http://blog.csdn.net/forezp/article/details/76211680)
+* [深入理解Zuul之源码解析](https://www.fangzhipeng.com/springcloud/2017/08/11/sc-zuul-raw.html)
 
 ### 进阶篇
 
